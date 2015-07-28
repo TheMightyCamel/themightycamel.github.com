@@ -1,0 +1,97 @@
+h1{
+	color: blue;
+}
+h2{
+	color: red;
+}
+
+h5{
+	border-style: solid;
+	border-color: gold;
+	color: #000;
+}
+h6{
+	color: #0f0;
+}
+h1{
+	border-style: solid;
+	border-color: blue;
+	background-color: red;
+	font-family: "Comic Sans MS", sans-serif;
+}
+h2{
+	border-style: solid;
+	border-color: #345;
+	background-color: gold;
+}
+h3{
+	border-style: solid;
+	border-color: #6f8;
+	background-color: #96a;
+}
+h4{
+	border-style: solid;
+	border-color: #e69;
+	background-color: #a6a;
+}
+h5{
+	background-color: #bed;
+}
+h6{
+	border-style: solid;
+	border-color: #abc;
+	background-color: #863;
+}
+body{
+	padding: 40px;
+	background-color: green;
+}
+ol{
+	border-style: solid;
+	border-color: #ccc;
+	background-color: #1f8;
+}
+ul{
+	border-style: solid;
+	border-color: #bbb;
+	background-color: #17c;
+}
+#mum{
+	border-style: solid;
+	border-color: #2ad;
+	background-color: #def;
+}
+#uu{
+	border-style: solid;
+	border-color: #2ad;
+	background-color: #def;
+}
+.dad{
+	color: gold;
+}
+body{
+	max-width:800px;
+	margin:0px auto;
+} 
+img{
+	max-width: 80%;
+}
+iframe{
+	max-width: 80%;
+}
+.auto{
+	border-style: solid;
+	border-color: #fe4;
+	background-color:red;	
+	width: 40%;
+	padding: 5%;
+	float: left;
+}
+.left{
+	border-style: solid;
+	border-color: gold;
+	background-color: #cab;
+	width: 40%;
+	padding: 5%;
+	float: left;
+}
