@@ -6,3 +6,104 @@ background-size: contain;
 position: absolute;
 background-image: url("http://4.bp.blogspot.com/-tv5GXDV0RUs/UF_byIk8_vI/AAAAAAAABoY/6wB3bAUFJMo/s1600/house_off.gif");
 }
+#elvis{
+	position: absolute;
+	left: 58%;
+	top: 30%;
+	width: 300px;
+	height: 200px;
+	background-color: red;
+	padding: 15px;
+}
+#elvis2{
+	position: absolute;
+	left: 46%;
+	top: 30%;
+	width: 300px;
+	height: 200px;
+	background-color: red;
+}
+#elvis3{
+	position: absolute;
+	left: 70%;
+	top: 30%;
+	width: 300px;
+	height: 200px;
+	background-color: red;
+}
+.secondWrapper{
+width: 100%;
+height: 100%;
+background-repeat: no-repeat;
+background-size: contain;
+position: absolute;
+background-image: url("http://architecture-view.com/wp-content/uploads/2010/01/House-Kaplan-Thompson-Rooftop.jpg");
+}
+.thirdWrapper{
+width: 100%;
+height: 100%;
+background-repeat: no-repeat;
+background-size: contain;
+position: absolute;
+background-image: url("http://hgtvhome.sndimg.com/content/dam/images/hgtv/fullset/2012/3/28/0/DP_Dotolo-Bedroom_s4x3.jpg.rend.hgtvcom.1280.960.jpeg");
+}
+.fWrapper{
+width: 100%;
+height: 100%;
+background-repeat: no-repeat;
+background-size: contain;
+position: absolute;
+background-image: url("http://www.gbtbuild.com/images/gallery/kitchen3.jpg");
+}
+
+.Hidden{
+	display:none;
+}
+#test{
+	position: relative;
+	left: 70%;
+	top: 60%;
+	width: 300px;
+	height: 400px;
+	background-color: red
+}
+#roofjump{
+	position: relative;
+	left: 70%;
+	top: 60%;
+	width: 300px;
+	height: 300px;
+	background-color: red;
+}
+.jump{
+	position: absolute;
+	left: 35%;
+	top: 25%;
+	width: 300px;
+	height: 400px;
+	background-color: red;
+}
+#description{
+	background-color: transparent;
+	position: absolute;
+	height: 100px;
+	width: 400px;
+	left: 55%;
+	top: 10%;
+	background-color:white;
+	opacity:0.5;
+}
+
+#iddd{
+	background-color: transparent;
+	position: absolute;
+	height: 300px;
+	width: 300px;
+	left: 55%;
+	top: 10%;
+	background-color:white;
+	opacity:0.5;
+}
+
+
+
